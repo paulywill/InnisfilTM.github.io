@@ -22,20 +22,29 @@ gulp.task('jekyll-build', function (done) {
 /**
  * Rebuild Jekyll & do page reload
  */
-gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
+
+ /* ref: https://www.liquidlight.co.uk/blog/how-do-i-update-to-gulp-4/
+ 
+ e.g.
+ gulp.task('default', gulp.series('del', function() {
+    // default task code here
+}));
+ 
+ */
+gulp.task('jekyll-rebuild', gulp.series('jekyll-build', function () {
     browserSync.reload();
-});
+}));
 
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browser-sync', ['sass', 'jekyll-build'], function() {
+gulp.task('browser-sync', gulp.series('sass', 'jekyll-build', function() {
     browserSync({
         server: {
             baseDir: '_site'
         }
     });
-});
+}));
 
 /**
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds)
