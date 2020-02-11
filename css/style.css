@@ -489,7 +489,7 @@ CLEAR AFTER FLOATS
 BUTTON DEFAULTS
 ***************/
 .button, .button-secondary, .button-tertiary, .button__outline {
-  background-color: seagreen;
+  background-color: steelblue;
   display: inline-block;
   position: relative;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -507,7 +507,7 @@ BUTTON DEFAULTS
   .button:hover, .button-secondary:hover, .button-tertiary:hover, .button__outline:hover, .button:focus, .button-secondary:focus, .button-tertiary:focus, .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f; }
+    background-color: #060b10; }
   .button:active, .button-secondary:active, .button-tertiary:active, .button__outline:active {
     top: 1px; }
 
@@ -523,10 +523,10 @@ BUTTON DEFAULTS
 
 .button__outline {
   background-color: transparent;
-  border: 3px solid seagreen;
-  color: seagreen; }
+  border: 3px solid steelblue;
+  color: steelblue; }
   .button__outline:hover {
-    background-color: seagreen;
+    background-color: steelblue;
     color: #fff; }
 
 /***************
@@ -545,7 +545,7 @@ input[type=text], input[type=email], input[type=phone], input[type=password], in
   width: 300px;
   margin-bottom: .5rem; }
   input[type=text]:focus, input[type=email]:focus, input[type=phone]:focus, input[type=password]:focus, input[type=number]:focus, input[type=search]:focus, textarea:focus {
-    border: 1px solid seagreen; }
+    border: 1px solid steelblue; }
   input[type=text].full-width, input[type=email].full-width, input[type=phone].full-width, input[type=password].full-width, input[type=number].full-width, input[type=search].full-width, textarea.full-width {
     width: 100%; }
 
@@ -658,7 +658,7 @@ th {
 
 .highlight .m, .highlight .nb, .highlight .no, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo,
 .highlight .il {
-  color: #8ae234; }
+  color: #060b10; }
 
 .highlight .o {
   color: #989DAA; }
@@ -686,11 +686,11 @@ body {
     margin: 0 0 2rem; }
 
 ::-moz-selection {
-  background: seagreen;
+  background: steelblue;
   color: white; }
 
 ::selection {
-  background: seagreen;
+  background: steelblue;
   color: white; }
 
 img, video, audio, iframe, object {
@@ -704,9 +704,9 @@ img, video, audio, iframe, object {
 LINK STYLING
 ***************/
 a {
-  color: seagreen; }
-  a:hover {
-    color: #1b5233; }
+  color: steelblue; }
+a:hover {
+  color: #231c8b; }
 
 /***************
 MENU STYLING
@@ -722,8 +722,8 @@ MENU STYLING
     .nav-collapse ul li {
       width: 100%;
       display: block;
-      background: seagreen;
-      border-bottom: 2px solid #349e63; }
+      background: steelblue;
+      border-bottom: 2px solid #060b10; }
       .nav-collapse ul li a {
         color: white;
         text-decoration: none;
@@ -753,7 +753,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: steelblue;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -763,7 +763,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #21653f; }
+    background-color: #03214e; }
 
 /***************
 LIST STYLING
@@ -800,8 +800,8 @@ PAGE STYLES
 HEADER STYLING
 ***************/
 .header {
-  background-color: seagreen;
-  background-image: url("../img/touring.jpg");
+  background-color: steelblue;
+  background-image: url("../img/innisfil.png");
   background-size: cover;
   background-position: center center;
   color: white;
@@ -841,7 +841,7 @@ POST STYLING
     content: "";
     position: absolute;
     top: -1.25em;
-    background: seagreen;
+    background: steelblue;
     display: block;
     height: 2px;
     width: 150px;
@@ -850,7 +850,7 @@ POST STYLING
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: seagreen;
+    background: steelblue;
     display: block;
     height: 2px;
     width: 150px;
@@ -881,7 +881,7 @@ POST STYLING
   margin-bottom: 2rem; }
 
 .post .dropcap {
-  color: seagreen;
+  color: steelblue;
   margin-right: .45rem; }
 
 .post .featuredImage {
@@ -970,11 +970,11 @@ FOOTER STYLING
           width: 100%;
           height: 100%; }
           .footer-links ul li a svg .outer-shape {
-            fill: seagreen; }
+            fill: steelblue; }
           .footer-links ul li a svg .inner-shape {
             fill: white; }
       .footer-links ul li:hover a svg .outer-shape {
-        fill: #21653f; }
+        fill: #060b10; }
 
 /***************
 PAGINATION STYLING
