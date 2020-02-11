@@ -507,7 +507,7 @@ BUTTON DEFAULTS
   .button:hover, .button-secondary:hover, .button-tertiary:hover, .button__outline:hover, .button:focus, .button-secondary:focus, .button-tertiary:focus, .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f; }
+    background-color: #060b10; }
   .button:active, .button-secondary:active, .button-tertiary:active, .button__outline:active {
     top: 1px; }
 
@@ -658,7 +658,7 @@ th {
 
 .highlight .m, .highlight .nb, .highlight .no, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo,
 .highlight .il {
-  color: #8ae234; }
+  color: #060b10; }
 
 .highlight .o {
   color: #989DAA; }
@@ -705,8 +705,8 @@ LINK STYLING
 ***************/
 a {
   color: steelblue; }
-  a:hover {
-    color: #1b5233; }
+a:hover {
+  color: #231c8b; }
 
 /***************
 MENU STYLING
@@ -723,7 +723,7 @@ MENU STYLING
       width: 100%;
       display: block;
       background: steelblue;
-      border-bottom: 2px solid #349e63; }
+      border-bottom: 2px solid #060b10; }
       .nav-collapse ul li a {
         color: white;
         text-decoration: none;
@@ -763,7 +763,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #21653f; }
+    background-color: #03214e; }
 
 /***************
 LIST STYLING
@@ -974,7 +974,7 @@ FOOTER STYLING
           .footer-links ul li a svg .inner-shape {
             fill: white; }
       .footer-links ul li:hover a svg .outer-shape {
-        fill: #21653f; }
+        fill: #060b10; }
 
 /***************
 PAGINATION STYLING
