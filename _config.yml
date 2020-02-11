@@ -26,3 +26,9 @@ social:
   email: innisfilTM@gmail.com
 
 google_analytics: "UA-158160891-1"
+
+plugins:
+  - jekyll-paginate
+ 
+
+  
