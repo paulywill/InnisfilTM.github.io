@@ -22,11 +22,11 @@ title: About
 	<p>We provide a supportive and positive learning environment where both successes and mistakes are welcomed and celebrated along the journey.</p>
 
 <h3>Dress Code</h3>
-Business casual or casual is usually the norm or whatever you find comfortable. 
+<p>Business casual or casual is usually the norm, but we ask whatever you find comfortable but appropriate. Members who are presenting a speech or competing in contest, are welcome to dress in more formal attire or a costume appropriate to their speech.</p> 
 
 
 <h3>Membership</h3>
-Guests are welcome to attend a few times to see if the club is a good fit. Membership is $100 (pro-rated) every six months plus an inital one time only sign-up fee to register with <a href="http://toastmasters.org">Toastmasters International</a>
+<p>Guests are welcome to attend a few times to see if the club is a good fit. Membership is $100 (pro-rated) every six months plus an inital one time only sign-up fee to register with <a href="http://toastmasters.org">Toastmasters International</a>.</p>
 
 
 <p>
