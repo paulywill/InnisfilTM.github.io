@@ -1,5 +1,7 @@
 # Innisfil Toastmasters
 
+![Screenshot](screenshot.png)
+
 This is the source code for the [InnisfilToastmasters.org](InnisfilToastmasters.org) website.
 
 It's redirect to a free Github page using a minimal, type-focused Jekyll theme.
