@@ -2,7 +2,7 @@ title: Innisfil Toastmasters
 description: Non-profit community club - Where Leaders Are Made
 
 url: http://innisfiltoastmasters.org
-baseurl: ""
+baseurl: https://innisfiltm.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
