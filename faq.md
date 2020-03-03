@@ -12,12 +12,12 @@ title: Contact Innisfil Toastmasters
 
 <p>We provide a supportive and positive learning experience in which members are empowered to develop communication and leadership skills, resulting in greater self-confidence and personal growth.<p>
 
-<p>We are what is considered a community club (welcome to anyone 18+ years old) within <a href="{{site.url}}/assets/pdf/TI-Regions.pdf">Region 6</a>, <a href="https://www.toastmasters86.org/">District 86</a>, <a href="https://www.toastmasters86.org/district-86-contacts/division-m">Division M</a>, <a href="https://www.toastmasters86.org/district-86-contacts/division-m/area-m-11">Area 11</a>. Our club number is <a href="http://dashboards.toastmasters.org/ClubReport.aspx?id=03589490">3589490</a>.
+<p>We are what is considered a community club (welcome to anyone 18+ years old) within <a href="{{base.url}}/assets/pdf/TI-Regions.pdf">Region 6</a>, <a href="https://www.toastmasters86.org/">District 86</a>, <a href="https://www.toastmasters86.org/district-86-contacts/division-m">Division M</a>, <a href="https://www.toastmasters86.org/district-86-contacts/division-m/area-m-11">Area 11</a>. Our club number is <a href="http://dashboards.toastmasters.org/ClubReport.aspx?id=03589490">3589490</a>.
 </p>
 
 
 <h3>Can I come to the next meeting?</h3>
-<p>Yes! Guests are ALWAYS welcomed to out to our meetings. There is no oligation to join our club if you're coming out a couple of times to see for yourself the value of our  Toastmasters club. When you're ready to join just ask one of our members or <a href="{{site.url}}/contact">contact us</a>.
+<p>Yes! Guests are ALWAYS welcomed to out to our meetings. There is no oligation to join our club if you're coming out a couple of times to see for yourself the value of our  Toastmasters club. When you're ready to join just ask one of our members or <a href="{{base.url}}/contact">contact us</a>.
 </p>
 
 
@@ -61,7 +61,7 @@ title: Contact Innisfil Toastmasters
 
 <h3>What can I expect?</h3>
 <p>
-We do our best to prepare well in advance before every meeting and set an agenda. Here's an <a href="{{site.url}}/assets/pdf/agenda-example.pdf">example</a> of what an agenda looks like.</p>
+We do our best to prepare well in advance before every meeting and set an agenda. Here's an <a href="{{base.url}}/assets/pdf/agenda-example.pdf">example</a> of what an agenda looks like.</p>
 
 <p>The format of a typical meeting becomes very familiar after a few visits, and will be similar at many other Toastmasters clubs.</p>
 
