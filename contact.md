@@ -17,7 +17,7 @@ title: Contact Innisfil Toastmasters
     <label for="message">Message</label>
     <input type="text" name="_honey" style="display:none">
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="hidden" name="_autoresponse" value="Hello from Innisfil Toastmasters! We've received your message and someone will get back to you personally ASAP. In the mean time please check out our FAQ page which may answer some of your questions. :)  >>---------- F.A.Q. ---------->  http://127.0.0.1:4040/faq/">
+    <input type="hidden" name="_autoresponse" value="Hello from Innisfil Toastmasters! We've received your message and someone will get back to you personally ASAP. In the mean time please check out our FAQ page which may answer some of your questions.   FAQ: {{site.url}}/faq/">
     <input type="submit" value="Send" class="button">
    
 
