@@ -1,12 +1,14 @@
 ---
 layout: default
-title: About
+title: About Innisfil Toastmasters
 ---
 
 <div class="post">
 	<h1 class="pageTitle">About Innisfil Toastmasters</h1>
 
-	<p class="intro">Chartered in December 14th, 2015, Innisfil Toastmasters became a small and friendly community club open to anyone to improve their speaking and leadership skills.</p>
+	<p class="intro">Chartered on December 14th, 2015, Innisfil Toastmasters became a
+small and friendly community club open to all to improve their
+speaking and leadership skills.</p>
 
 <h3>Meetings</h3>
 	<p>The meeting, which happens every 1st and 3rd Thursday of the month from 7:30pm - 9:00pm, is usually divided into two parts:</p>
