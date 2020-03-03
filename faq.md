@@ -38,7 +38,7 @@ title: Contact Innisfil Toastmasters
 
 
 <h3>How do I become a member and how much is it?</h3>
-<p>You fillout an <a href="{{site.url}}/assets/pdf/membership-application.pdf">application</a> and give it to our <b>VP of Membership</b>, <b>Club President</b>, or <b>Treasurer</b>. If you're not sure who is who, just ask. :)</p>
+<p>You fillout an <a href="{{site.baseurl}}/assets/pdf/membership-application.pdf">application</a> and give it to our <b>VP of Membership</b>, <b>Club President</b>, or <b>Treasurer</b>. If you're not sure who is who, just ask. :)</p>
 
 <p>Membership is $100 (pro-rated) every six months plus an inital one time only sign-up fee to register with <a href="http://toastmasters.org">Toastmasters International</a>.</p>
 
