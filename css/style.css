@@ -16,20 +16,6 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 2 */ }
 
-#covid19_banner {
-	 display: block;
-	 position: absolute;
-	 color: #fff;
-	 background: red;
-	 font-weight: 700;
-	 box-shadow: 0 0 10px rgba(0, 0, 0, .5);
-	 border-bottom-left-radius: 2px;
-	 border-bottom-right-radius: 2px;
-}
-
-
-
-
 /* Sections
    ========================================================================== */
 /**
@@ -1173,7 +1159,3 @@ CONTACT PAGE STYLING
     width: 48%;
     float: right;
     margin-right: 0; } }
-/************************************************/
-
-
- 
