@@ -18,6 +18,7 @@ html {
 
 #covid19_banner {
 	 display: block;
+	 text-align: center;
 	 color: #fff;
 	 background: red;
 	 font-weight: 700;
