@@ -4,3 +4,4 @@ _site
 .ruby-version
 .jekyll-cache
 node_modules
+assets/css
